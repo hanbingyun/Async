@@ -195,7 +195,7 @@ async-shell/
 1. **克隆仓库**（替换成你自己的 fork 或上游地址）：
 
    ```bash
-   git clone https://github.com/your-org/async-shell.git
+   git clone https://github.com/hanbingyun/Async.git
    cd async-shell
    ```
 
